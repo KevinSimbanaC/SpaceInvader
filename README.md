@@ -1,2 +1,2 @@
 # SpaceInvader
-This is my first proyect ever about programming. This is the reason why I love programming.
+A project based on the popular video game Space Invader, It's made in C++.
